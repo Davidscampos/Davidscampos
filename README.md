@@ -1,16 +1,19 @@
-## Hi there 👋
+## ¡Hola, soy David Campos! 
 
-<!--
-**Davidscampos/Davidscampos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudiante de Ingeniería de Sistemas | Desarrollador en formación
+🎓 Estudiante de Ingeniería de Sistemas en la Universidad Industrial de Santander (UIS).
 
-Here are some ideas to get you started:
+Me apasiona la tecnología y su capacidad para resolver problemas del mundo real. Actualmente estoy fortaleciendo mis habilidades de programación, desarrollando proyectos académicos y explorando diferentes áreas de la ingeniería de sistemas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Mi objetivo es convertirme en un ingeniero capaz de construir soluciones útiles, aprender continuamente participar en proyectos de alto impacto  y poder disminuir la brecha tecnológica que se tiene en  Colombia.
+
+
+ Sobre mí : 
+
+Estudio Ingeniería de Sistemas en la UIS.
+Me interesan el desarrollo de software, la inteligencia artificial y la ciencia de datos.
+Me gustar ser autodidacta y aprender sobre nuevas tecnologias.
+Busco mejorar constantemente mi lógica de programación y mis habilidades técnicas.
+Aspiro a trabajar en una empresa tecnológica internacional y seguir creciendo profesionalmente.
+
+
