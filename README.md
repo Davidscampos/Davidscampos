@@ -3,7 +3,7 @@
 💻 Estudiante de Ingeniería de Sistemas | Desarrollador en formación
 🎓 Estudiante de Ingeniería de Sistemas en la Universidad Industrial de Santander (UIS).
 
-Me apasiona la tecnología y su capacidad para resolver problemas del mundo real. Actualmente estoy fortaleciendo mis habilidades de programación, desarrollando proyectos académicos y explorando diferentes áreas de la ingeniería de sistemas.
+## Me apasiona la tecnología y su capacidad para resolver problemas del mundo real. Actualmente estoy fortaleciendo mis habilidades de programación, desarrollando proyectos académicos y explorando diferentes áreas de la ingeniería de sistemas.
 
 Mi objetivo es convertirme en un ingeniero capaz de construir soluciones útiles, aprender continuamente participar en proyectos de alto impacto  y poder disminuir la brecha tecnológica que se tiene en  Colombia.
 
